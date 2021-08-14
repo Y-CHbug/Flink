@@ -8,5 +8,7 @@ public class Git {
         System.out.println("Hello Scala");
         System.out.println("Hello Spark");
         System.out.println("****");
+        System.out.println("****");
+        System.out.println("****");
     }
 }
